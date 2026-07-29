@@ -1,5 +1,11 @@
 {
   "notice": {
     "enabled": false,
+    "id": "notice_001",
+    "title": "",
+    "message": "",
+    "force_close": true,
+    "btn_text": "",
+    "link": ""
   }
 }
