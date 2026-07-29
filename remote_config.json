@@ -1,11 +1,12 @@
+
 {
   "notice": {
     "enabled": false,
-    "id": "welcome_001",
-    "title": " Welcome to Media Pro!",
-    "message": "Thank you for using Media Pro!\n\nFollow KML Tronix on TikTok to stay updated with the latest releases, tech content, and upcoming projects.",
-    "force_close": false,
-    "btn_text": "Follow KML Tronix on TikTok",
-    "link": "https://www.tiktok.com/@kmltronix"
+    "id": "notice_001",
+    "title": "🚨 වැදගත් Update එකක් පැමිණ ඇත!",
+    "message": "Media Downloader Pro හි නවතම Version එක නිකුත් වී ඇත. පැරණි Version එක තවදුරටත් ක්‍රියාත්මක නොවේ. කරුණාකර අලුත් Version එක Download කරගන්න.",
+    "force_close": true,
+    "btn_text": "Download Update Now",
+    "link": "https://github.com/your-username/your-repo/releases"
   }
 }
