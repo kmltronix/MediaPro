@@ -4,7 +4,7 @@
     "id": "notice_001",
     "title": "🚨 වැදගත් Update එකක් පැමිණ ඇත!",
     "message": "Media Downloader Pro හි නවතම Version එක නිකුත් වී ඇත. පැරණි Version එක තවදුරටත් ක්‍රියාත්මක නොවේ. කරුණාකර අලුත් Version එක Download කරගන්න.",
-    "force_close": true,
+    "force_close": false,
     "btn_text": "Download Update Now",
     "link": "https://github.com/your-username/your-repo/releases"
   }
