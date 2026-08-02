@@ -10,7 +10,7 @@
 
 ## 🌐 Supported Platforms
 
-Download media effortlessy from major platforms:
+Download media effortlessly from major platforms:
 * 🔴 **YouTube** (Videos, Shorts, Audio, Playlists)
 * 🎵 **TikTok** (HD Videos without watermark)
 * 🔵 **Facebook** (Public Videos, Reels)
@@ -61,5 +61,5 @@ This software is developed strictly for personal and educational use. Please res
 ---
 
 <p align="center">
-  Developed with ❤️ by <b>Kavindu Liyanage</b>
+  Developed with ❤️ by <b>Kavindu M Liyanage (kmltronix)</b>
 </p>
