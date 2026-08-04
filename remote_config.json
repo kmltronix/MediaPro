@@ -1,11 +1,11 @@
 {
   "notice": {
-    "enabled": false,
-    "id": "notice_001",
-    "title": "",
-    "message": "",
-    "force_close": true,
-    "btn_text": "",
-    "link": ""
+    "enabled": true,
+    "id": "notice_v1_1_0",
+    "title": "🎉 New Update Available! (v1.1.0)",
+    "message": "Media Pro v1.1.0 is now available! Enjoy new features including TikTok, Facebook & Instagram downloads, plus a new Dark Theme. Visit our TikTok profile for updates and support!",
+    "force_close": false,
+    "btn_text": "Visit TikTok Profile",
+    "link": "https://www.tiktok.com/@kmltronix"
   }
 }
