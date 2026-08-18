@@ -3,7 +3,6 @@
 ![Version](https://img.shields.io/badge/Version-v1.2.0-2ea44f?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/Status-Active%20%26%20Verified-brightgreen?style=for-the-badge&logo=check-circle)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Installer](https://img.shields.io/badge/Setup-Inno%20Installer-success?style=for-the-badge)
 ![Architecture](https://img.shields.io/badge/Architecture-64--bit-orange?style=for-the-badge)
 
 **Media Pro v1.2.0** is a modern, high-speed standalone desktop application built for Windows. Powered by `yt-dlp` and `FFmpeg`, it enables seamless video and audio extraction from a wide array of platforms with advanced batch features and a refined Windows 11 Fluent UI.
