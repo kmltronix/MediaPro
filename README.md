@@ -12,7 +12,7 @@
 
 | Platform | Architecture / OS | Package File | Direct Download |
 | :--- | :--- | :--- | :--- |
-| 💻 **Windows** | 64-bit (x64) | `MediaPro-v1.3.0-Setup.exe` | [Download Installer](https://github.com/kmltronix/MediaPro/releases/download/v1.3.0/MediaPro-v1.3.0-Setup.exe) |
+| 💻 **Windows** | 64-bit (x64) | `MediaPro-v1.3.0-Setup.exe` | [Download Installer](https://github.com/kmltronix/MediaPro/releases/download/v1.3.0/MediaPro-v1.3-Setup.exe) |
 | 📱 **Android** | Modern Devices (64-bit) | `MediaPro-v1.0-arm64-v8a.apk` | [Download APK](https://github.com/kmltronix/MediaPro/releases/download/android_v1.0/MediaPro-v1.0-arm64-v8a.apk) |
 | 📱 **Android** | Legacy Devices (32-bit) | `MediaPro-v1.0-armeabi-v7a.apk` | [Download APK](https://github.com/kmltronix/MediaPro/releases/download/android_v1.0/MediaPro-v1.0-armeabi-v7a.apk) |
 | 📱 **Android** | Universal Build | `MediaPro-v1.0-universal.apk` | [Download APK](https://github.com/kmltronix/MediaPro/releases/download/android_v1.0/MediaPro-v1.0-universal.apk) |
